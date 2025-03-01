@@ -117,5 +117,3 @@ class CircularLinkedList:
 6. Use type hints for better code readability
 7. Implement proper `__str__` and `__repr__` methods
 
-## Contributing
-Feel free to submit issues and enhancement requests!
