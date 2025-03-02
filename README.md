@@ -6,6 +6,9 @@ A comprehensive guide to understanding and implementing Linked Lists in Python, 
 - [Introduction](#introduction)
 - [Types of Linked Lists](#types-of-linked-lists)
 - [Time Complexity](#time-complexity)
+- [Common Use Cases](#common-use-cases)
+- [Best Practices](#best-practices)
+- [Contributing](#contributing)
 
 ## Introduction
 
